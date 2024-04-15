@@ -11,4 +11,3 @@ The goal for this program was to create personalised invoices from a template, s
 
 ## Requirements
 In order to work this requires a csv file where the data for the students is kept (name,email,form,instrument,lesson_length,price).
-
