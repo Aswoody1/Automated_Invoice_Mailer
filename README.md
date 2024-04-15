@@ -9,3 +9,6 @@ The goal for this program was to create personalised invoices from a template, s
 * Dealing with the datetime module (formatting the date in particular ways)
 * Formatting number data into 2 decimal places.
 
+## Requirements
+In order to work this requires a csv file where the data for the students is kept (name,email,form,instrument,lesson_length,price).
+
